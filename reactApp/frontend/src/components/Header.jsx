@@ -6,9 +6,9 @@ export default function Header() {
         <header className="py-3 bg-light border-bottom ">  
             <div className="container">
                 <div className="text-center my-3">
-                    <h1 className="fw-bolder">Welcome to Blog RNEM!</h1>
-                    <p className="lead mb-0">FrontEnd: HTML5, CSS3, Bootstrap 5, React 18.2 </p>
-                    <p className="lead mb-0">BackEnd: NodeJs + Express, TypeScript,  MySQL</p>
+                    <h1 className="fw-bolder">Welcome to my blog!</h1>
+                    <p className="lead mb-0">This is a fullstack blog app designed using React.js for the frontend!</p>
+                    <p className="lead mb-0">For the backend part the app uses Node.js!</p>
                 </div>
             </div>
         </header>
